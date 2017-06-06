@@ -1,0 +1,13 @@
+header {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  align-content: center;
+}
+nav {
+  display: inline-block;
+}
+span .title {
+  color: MediumAquamarine;
+}
